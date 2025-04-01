@@ -16,3 +16,14 @@ button {
 body {
     background-color: #D4A76A;
 }
+    .small-boxes{
+        display:flex;
+        justify-content: space-between;
+    }
+
+    .box {
+        flex : 1;
+        background-color: white ;
+        text-align: center;
+    }
+
